@@ -26,7 +26,7 @@ According to the diagram, the environment was solved after 900 episodes.
 
 ### Evaluation
 
-The average score reaches about almost 14 scores (over 100 consecutive episodes, after taking the maximum over both agents)
+The average score reaches almost 14 scores (over 100 consecutive episodes, after taking the maximum over both agents)
 
 ![Test scores](scores.png)
 
