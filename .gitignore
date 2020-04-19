@@ -1,0 +1,7 @@
+unity-environment
+Banana_*
+
+.ipynb_checkpoints
+__pycache__
+
+*.log
