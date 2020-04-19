@@ -7,7 +7,7 @@
 
 To solve the problem, the Deep Q-Learning (DQN) algorithm was applied. The implementation is based on the Udacity [DQN project](https://github.com/udacity/deep-reinforcement-learning/tree/master/dqn), which has been adapted to the banana environment.
 
-DQN represents a neural network that approximates an action-value function ($q$ function) for a given state. The network has 2 hidden layers of 64 units each, ReLU activation and the following hyperparameters:
+DQN represents a neural network that approximates an action-value function (`q` function) for a given state. The network has 2 hidden layers of 64 units each, ReLU activation and the following hyperparameters:
 
 - buffer size: 1000000
 - batch size: 64       
